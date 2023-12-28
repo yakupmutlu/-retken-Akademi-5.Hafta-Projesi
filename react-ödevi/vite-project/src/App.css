@@ -1,0 +1,25 @@
+.app-h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 35px;
+}
+.app-h3{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-style: inherit;
+    text-decoration: dotted;
+}
+.app-p{
+    color:black;
+    background-color: aqua;
+    font-size: 25px;
+}
+.app-img2{
+    text-align: center;
+}
+.app-img3{
+    margin-left: auto;
+}
